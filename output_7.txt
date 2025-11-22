@@ -1,0 +1,40 @@
+Входная строка: this is happy, true label: True
+Предсказанное значение: True 
+Входная строка: i am good, true label: True
+Предсказанное значение: True 
+Входная строка: this is not happy, true label: False
+Предсказанное значение: False 
+Входная строка: i am not good, true label: False
+Предсказанное значение: False 
+Входная строка: this is not bad, true label: True
+Предсказанное значение: True 
+Входная строка: i am not sad, true label: True
+Предсказанное значение: True 
+Входная строка: i am very good, true label: True
+Предсказанное значение: True 
+Входная строка: this is very bad, true label: False
+Предсказанное значение: False 
+Входная строка: i am very sad, true label: False
+Предсказанное значение: False 
+Входная строка: this is bad not good, true label: False
+Предсказанное значение: False 
+Входная строка: this is good and happy, true label: True
+Предсказанное значение: True 
+Входная строка: i am not good and not happy, true label: False
+Предсказанное значение: True  (Ошибка)
+Входная строка: i am not at all sad, true label: True
+Предсказанное значение: True 
+Входная строка: this is not at all good, true label: False
+Предсказанное значение: False 
+Входная строка: this is not at all bad, true label: True
+Предсказанное значение: True 
+Входная строка: this is good right now, true label: True
+Предсказанное значение: True 
+Входная строка: this is sad right now, true label: False
+Предсказанное значение: False 
+Входная строка: this is very bad right now, true label: False
+Предсказанное значение: False 
+Входная строка: this was good earlier, true label: True
+Предсказанное значение: True 
+Входная строка: i was not happy and not good earlier, true label: False
+Предсказанное значение: False 
